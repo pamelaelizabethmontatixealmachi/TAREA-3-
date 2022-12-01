@@ -102,8 +102,11 @@ CAPÍTULO 6
 
 CONCLUSIONES:
 
+A partir de este trabajo logramos diferenciar entre los circuitos cerrados y lps circuitos en paralelo de esta manera podemos identificar ciertas características propias de cada circuito
+La localización de fallas es un analisis que ayuda a saber en que estamos mal o los posibles errores que pueden ocurrir en un circuito
+
 
 LINK DEL VIDEO:
 
-BIBLIOGRAFÍAA
-
+BIBLIOGRAFÍA
+Floyd, T. L., Salas, R. N., González, L. M. O., & López, G. P. (2007). Principios de circuitos eléctricos. Pearson Educación.
